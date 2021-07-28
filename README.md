@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnaazulLedesmaIT and I´m IT Recruiting Analyst in BePartners.
-- 👀 I’m interested in profiles who: Developers Front End, .NET Architects, DevOps Engineers.
+- 👀 I’m interested in profiles like: Developers Front End, .NET Architects, DevOps Engineers.
 - 📫 How to reach me: https://www.linkedin.com/in/ana-azul-ledesma/
 
 <!---
